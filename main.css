@@ -1,0 +1,351 @@
+* {
+  margin: 0%;
+}
+
+.body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.top {
+  background-color: #000000;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 900px;
+}
+
+.opf {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  position: relative;
+  bottom: 880px;
+}
+.opf .lil {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.opf button {
+  height: 30px;
+  display: flex;
+  padding: 0px 24px;
+  align-items: center;
+  border-radius: 30px;
+  border: none;
+  width: 100px;
+}
+
+.opd {
+  color: white;
+  position: relative;
+  bottom: 810px;
+  font-size: 30px;
+}
+.opd p {
+  color: #8B8B8B;
+  font-size: 16px;
+}
+.opd button {
+  padding: 10px 10px;
+  border-radius: 30px;
+  background-color: #A8FF35;
+}
+
+.tip {
+  position: relative;
+  bottom: 700px;
+}
+
+.tup {
+  position: relative;
+  bottom: 680px;
+}
+
+.ttp {
+  position: relative;
+  bottom: 700px;
+}
+
+.typ {
+  position: relative;
+  bottom: 700px;
+}
+
+.top2 {
+  padding: 300px 0px;
+  background-color: #A8FF35;
+  height: 302px;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.top2 img {
+  border: 80px solid white;
+}
+.top2 p {
+  font-size: 20px;
+}
+
+.top3 {
+  font-size: 34px;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 584px;
+}
+.top3 .uo {
+  display: flex;
+}
+.top3 .uo .div {
+  color: #ADADAD;
+}
+.top3 .div {
+  color: #ADADAD;
+}
+
+.kl {
+  padding: 100px 130px;
+}
+
+.jj {
+  display: flex;
+  gap: 30px;
+  margin: 30px;
+  justify-content: center;
+}
+.jj .box-1 {
+  width: 266px;
+  height: 120px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+}
+.jj .box-2 {
+  width: 266px;
+  height: 120px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+}
+.jj .box-3 {
+  width: 266px;
+  height: 120px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+}
+.jj .box-4 {
+  width: 266px;
+  height: 120px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+}
+
+.d {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F5F5F5;
+}
+
+.h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+
+.lg {
+  text-align: center;
+  gap: 100px;
+}
+.lg .box-1 {
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+}
+.lg .box-2 {
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+}
+.lg .box-3 {
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+}
+.lg .box-4 {
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+}
+.lg .box-5 {
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+}
+.lg .box-6 {
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+}
+.lg .box-7 {
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+}
+.lg .box-8 {
+  width: 124px;
+  height: 124px;
+  border-radius: 10px;
+}
+.lg img {
+  margin: 50px;
+}
+.lg button {
+  padding: 15px 30px;
+  border-radius: 30px;
+  color: white;
+  background-color: black;
+}
+
+.ii {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.g {
+  background-color: #A8FF35;
+}
+
+.dow {
+  background-color: black;
+  height: 1050px;
+}
+.dow .white {
+  color: white;
+  padding-top: 100px;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.dow .dw {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.dow .dw img {
+  width: 78px;
+}
+
+.lolo {
+  background-color: white;
+  color: black;
+  width: 360px;
+  border-radius: 20px;
+  height: 640px;
+  font-size: 30px;
+  padding: 34px;
+}
+.lolo button {
+  position: relative;
+  top: 120px;
+  left: 40px;
+  width: 270px;
+  height: 54px;
+  border-radius: 30px;
+  border: none;
+  font-size: 20px;
+  background-color: #A8FF35;
+}
+
+.tp {
+  display: flex;
+  align-items: center;
+}
+
+.loli {
+  background-color: #A8FF35;
+  color: black;
+  width: 360px;
+  border-radius: 20px;
+  height: 640px;
+  font-size: 30px;
+  padding: 34px;
+}
+.loli button {
+  position: relative;
+  top: -14px;
+  left: 40px;
+  width: 270px;
+  height: 54px;
+  border-radius: 30px;
+  border: none;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+.lili {
+  background-color: white;
+  color: black;
+  width: 360px;
+  border-radius: 20px;
+  height: 640px;
+  font-size: 30px;
+  padding: 34px;
+}
+.lili p {
+  font-size: 16px;
+}
+.lili button {
+  position: relative;
+  top: -20px;
+  left: 40px;
+  width: 270px;
+  height: 54px;
+  border-radius: 30px;
+  border: none;
+  font-size: 20px;
+  background-color: #A8FF35;
+}
+
+.win {
+  display: flex;
+  justify-content: space-around;
+}
+
+.lolop {
+  height: 139px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #A8FF35;
+  text-align: center;
+  padding: 300px 0px;
+}
+.lolop .gg {
+  font-size: 70px;
+}
+.lolop .g {
+  color: #87D322;
+}
+.lolop button {
+  padding: 10px 30px;
+  color: white;
+  background-color: #000000;
+  border: none;
+  border-radius: 20px;
+}
+
+.lol {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100px;
+}
+
+.dol {
+  display: flex;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  gap: 20px;
+}/*# sourceMappingURL=main.css.map */
